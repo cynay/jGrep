@@ -30,7 +30,7 @@ usage
 -----
 
 grep regexp file 
-grep regexp file1 [file2] ...
+
 
 requirements
 ------------
